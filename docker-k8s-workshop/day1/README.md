@@ -1,4 +1,4 @@
-# Docker Day 1 Exercise – Hello Docker App
+# Docker Day 1 Exercise 
 
 ## Overview
 This project is a simple Flask-based "Hello, World!" REST API, containerized using Docker.
