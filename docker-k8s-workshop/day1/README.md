@@ -12,8 +12,8 @@ docker build -t <image-name>:day1 .
 docker run -p 8080:8080 <image-name>:day1
 ```
 
-## Docker Hub image Link
-https://hub.docker.com/r/rupali1520/hello-docker
+## Docker Hub image
+[View on Docker Hub] https://hub.docker.com/r/rupali1520/hello-docker
 
 
 ## Core Concept Questions
