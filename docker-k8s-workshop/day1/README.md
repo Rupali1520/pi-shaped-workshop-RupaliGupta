@@ -13,7 +13,7 @@ docker run -p 8080:8080 <image-name>:day1
 ```
 
 ## Docker Hub image Link
-https://hub.docker.com/repository/docker/rupali1520/hello-docker/tags
+https://hub.docker.com/r/rupali1520/hello-docker
 
 
 ## Core Concept Questions
