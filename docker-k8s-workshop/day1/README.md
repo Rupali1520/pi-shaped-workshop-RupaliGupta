@@ -7,7 +7,7 @@ This project is a simple Flask-based "Hello, World!" REST API, containerized usi
 
 ```bash
 git clone <URL>
-cd <repo-name>
+cd <repo-name>/docker-k8s-workshop/day1/
 docker build -t <image-name>:day1 .
 docker run -p 8080:8080 <image-name>:day1
 ```
