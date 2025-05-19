@@ -10,7 +10,7 @@ git clone <URL>
 cd <repo-name>
 docker build -t <image-name>:day1 .
 docker run -p 8080:8080 <image-name>:day1
-
+```
 
 ## 📘 Core Concept Questions
 
