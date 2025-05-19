@@ -1,2 +1,1 @@
-# pi-shaped-workshop-RupaliGupta
-workshop code
+# pi shaped workshop for all
