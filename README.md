@@ -1,1 +1,3 @@
-# pi shaped workshop for all
+# pi shaped workshop
+
+## Rupali Gupta
