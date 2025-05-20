@@ -46,6 +46,7 @@ Failed containers are restarted or replaced automatically.
 
 Configuration and secrets are managed securely.
 
+
 Together, Docker and Kubernetes form a powerful combination for modern cloud-native applications.
 
 
