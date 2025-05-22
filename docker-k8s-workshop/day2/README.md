@@ -12,7 +12,7 @@ kubectl label nodes <node-name> disktype=ssd
 kubectl taint nodes <node-name>  env=dev:NoSchedule
 kubectl apply -f Deployment.yaml
 kubectl get pods -o wide
-kubectl port-forward pod/flask-hello-pod-affinity 8080:8080  #Access the Flask App
+kubectl port-forward pod/<pod name> 8080:8080  #Access the Flask App
 ```
 
 
