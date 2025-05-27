@@ -41,7 +41,9 @@ helm uninstall flask-hello
 ## Core Concept Questions
 
 ### 1. Why is Helm important for managing configuration across different environments in a real-world product (e.g., dev, staging, prod)?
+
 Helm is important because it allows you to templatize Kubernetes manifests, making it easy to manage configuration differences across environments like dev, staging, and prod. You can reuse the same chart and customize values using separate values.yaml files, ensuring consistency, reducing duplication, and simplifying deployment.
+
 ---
 
 ### 2. How does Helm simplify deployment rollback during a production incident?
