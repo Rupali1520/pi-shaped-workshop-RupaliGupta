@@ -11,7 +11,7 @@ This is a Helm chart for deploying the simple Flask Hello app. It allows configu
 
 ```bash
 git clone https://github.com/Rupali1520/pi-shaped-workshop-RupaliGupta.git
-cd pi-shaped-workshop-RupaliGupta/docker-k8s-workshop/day3
+cd pi-shaped-workshop-RupaliGupta/docker-k8s-workshop/day4/
 ```
 
 ## 2: Install the Helm chart
